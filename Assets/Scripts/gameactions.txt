@@ -1,0 +1,5 @@
+game state is stored as follows:
+
+
+">dialogue:XYZ" - initializes dialoguemanager in dialogue scene with argument "XYZ". loads "Graphs/XYZ.json".
+">battle:XYZ"
